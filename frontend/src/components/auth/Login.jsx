@@ -1,6 +1,6 @@
 import { useForm } from 'react-hook-form';
 import { useDispatch } from 'react-redux';
-import logo from '../../images/as-logo.png'
+import logo from '../../images/hd-logo.png'
 import { userLoginApi } from '../../features/actions/authActions';
 import { useState } from 'react';
 
@@ -35,7 +35,7 @@ const Login = ({ setToggle }) => {
         <div className='min-h-screen w-full bg-black flex flex-col items-center justify-center' >
 
             {/* company logo */}
-            <div className='h-[70px] w-[210px] absolute top-2' >
+            <div className='h-[70px] w-[210px] absolute top-10' >
                 <img src={logo} alt="company logo" />
             </div>
 

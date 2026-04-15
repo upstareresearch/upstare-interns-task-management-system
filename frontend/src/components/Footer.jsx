@@ -47,7 +47,7 @@ const Footer = () => {
                         </div>
 
                         {/* Description */}
-                        <p className='text-white font1 p-2 text-sm' >Transform your future with  <span className='text-sky-500' >Ashok Yadav !</span> Explore high-quality online courses designed
+                        <p className='text-white font1 p-2 text-sm' >Transform your future with  <span className='text-sky-500' >Upstare Research !</span> Explore high-quality online courses designed
                             to help you master new skills, grow your career, and follow your passion. Learn from industry experts, enjoy flexible
                             study options, and become part of a thriving community. Our platform offers comprehensive learning paths in web development,
                             data science, data analytics, and Ui/Ux Design. With hands-on projects, live mentoring sessions, and
@@ -67,8 +67,8 @@ const Footer = () => {
                             </div>
                             <div className='w-full flex flex-col items-start justify-center space-y-10 text-xl text-white' >
                                 <h1 className='text-sky-500' >Contact us</h1>
-                                <p>+ 91-1234567890</p>
-                                <p>ashokyadavrtp200@gmail.com</p>
+                                <p>+ 91-6268226160</p>
+                                <p>support@upstareresearch.com</p>
                                 <p>Bhopal madhya pradesh</p>
                             </div>
                         </div>

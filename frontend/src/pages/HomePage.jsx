@@ -20,7 +20,7 @@ const HomePage = () => {
         <div className="w-full w-full md:max-w-xl font1 p-1">
           <div className='flex items-center justify-center ' >
             <img className='h-[40px] md:h-[60px]' src={logo} alt="company logo" />
-            <h1 className='text-5xl text-center text-sky-500 text-shadow-lg text-shadow-black' >Ashok Yadav</h1>
+            <h1 className='text-5xl text-center text-sky-500 text-shadow-lg text-shadow-black' >Upstare-Research</h1>
             <img className='h-[40px] md:h-[60px]' src={logo} alt="company logo" />
           </div>
           <p className='mt-5 font-bold border-2 border-sky-500 bg-slate-900/50 shadow-lg shadow-sky-500 rounded-lg p-7' > Expert-led courses designed to help you excel in your career by providing in-depth knowledge, hands-on training,
@@ -46,7 +46,7 @@ const HomePage = () => {
           <div className='flex flex-col bg-slate-900/50 border-2 border-sky-500 shadow-lg shadow-sky-500 p-6 text-white space-y-4 font1'>
             <img src={courses1} alt="courses image" />
             <h1 className='text-sky-500' >Data Analytics</h1>
-            <p className='text-sm' >Data Analytics Course - Master Data Skills with ashok yadav 🚀 Turn Data into Actionable Insights & Build a Successful Career in Analytics!
+            <p className='text-sm' >Data Analytics Course - Master Data Skills with Upstare Research 🚀 Turn Data into Actionable Insights & Build a Successful Career in Analytics!
               💡 In today's data-driven world, businesses rely on skilled data analysts to uncover trends, enhance decision-making, and drive success.
             </p>
             <button className='bg-sky-500 text-white text-sm py-2' >Enroll Now</button>
@@ -56,7 +56,7 @@ const HomePage = () => {
           <div className='flex flex-col bg-slate-900/50 border-2 border-sky-500 shadow-lg shadow-sky-500 p-6 text-white space-y-4 font1'>
             <img src={courses2} alt="courses image" />
             <h1 className='text-sky-500' >Digital Marketing</h1>
-            <p className='text-sm' > Digital Marketing Course - Master Online Marketing with ashok yadav Unlock the Power of Digital Marketing & Build a High-Growth Career! In today's
+            <p className='text-sm' > Digital Marketing Course - Master Online Marketing with Upstare Research Unlock the Power of Digital Marketing & Build a High-Growth Career! In today's
               digital-first world, businesses of all sizes rely on digital marketing to connect with their audience, drive sales, and grow their brand.
             </p>
             <button className='bg-sky-500 text-white text-sm py-2' >Enroll Now</button>
@@ -76,7 +76,7 @@ const HomePage = () => {
           <div className='flex flex-col bg-slate-900/50 border-2 border-sky-500 shadow-lg shadow-sky-500 p-6 text-white space-y-4 font1'>
             <img src={courses4} alt="courses image" />
             <h1 className='text-sky-500' >Web Development</h1>
-            <p className='text-sm' >Web Development Course - Build Modern Websites & Applications with ashok yadav Master Frontend & Backend
+            <p className='text-sm' >Web Development Course - Build Modern Websites & Applications with Upstare Research Master Frontend & Backend
               Development to Launch Your Tech Career! In today's digital world, websites and web applications are the backbone of businesses, services, and everyday interactions.
             </p>
             <button className='bg-sky-500 text-white text-sm py-2' >Enroll Now</button>

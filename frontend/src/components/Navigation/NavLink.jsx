@@ -1,6 +1,6 @@
 import { NavLink as RouterNavLink, useLocation, useNavigate, } from "react-router";
 import { useDispatch, useSelector } from 'react-redux';
-import logo from '../../images/as-logo.png';
+import logo from '../../images/hd-logo.png';
 import { removeUser } from "../../features/reducers/authSlice";
 import { axiosintance } from "../../config/axiosintance";
 
@@ -54,8 +54,8 @@ const NavLink = () => {
       <section className='h-full w-full p-10 flex flex-col items-center space-y-5 bg-slate-900 ' >
 
         {/* company logo */}
-        <div className='h-30  flex items-center justify-center shadow-lg shadow-sky-500 mb-5' >
-          <img className="h-30" src={logo} alt="company logo" />
+        <div className='h-20  flex items-center justify-center shadow-lg shadow-sky-500 mb-5' >
+          <img className="h-20" src={logo} alt="company logo" />
         </div>
 
         {/* Nav map */}

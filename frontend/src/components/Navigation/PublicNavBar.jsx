@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import logo from "../../images/logo.png"
+import logo from "../../images/hd-logo.png"
 
 const PublicNavBar = () => {
     return (
